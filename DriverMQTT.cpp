@@ -6,7 +6,7 @@
  ***********************************/
 
 #include <Arduino.h>
-#include <ESP8266WiFi.h>
+#include <ESP8266WiFi.h>    // Version Instalada 1.2.7
 #include "DriverMQTT.h"
 #include "RTOS.h"
 #include "Aplicacion.h"

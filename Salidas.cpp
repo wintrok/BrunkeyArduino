@@ -14,13 +14,13 @@ Outputs  Salidas_Operador;
 void Salidas(void)
 {
   // Manejo salida para relevo
-  if(Salidas_Operador.Relevo)
+  /*if(Salidas_Operador.Relevo)
   {
     digitalWrite(PIN_RELEVO, HIGH);
   }
   else
   {
     digitalWrite(PIN_RELEVO, LOW);
-  }
+  }*/
 
 }
